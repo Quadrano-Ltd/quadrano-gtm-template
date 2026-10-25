@@ -1,0 +1,18 @@
+project:
+  uuid: 2b598a0c-6d19-4cb4-88fe-3db72a425253
+  slug: quadrano-gtm-template
+  node_id: 98787d5f5b19
+  build_id: cc774c2d-8b78-5d80-b32d-60d8d848f6fa
+mission_type_activations:
+- software-dev
+- documentation
+- research
+- plan
+vcs:
+  type: git
+agents:
+  available:
+  - copilot
+  - claude
+  auto_commit: true
+  lint_on_edit: false
